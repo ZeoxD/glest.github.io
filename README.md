@@ -2,7 +2,7 @@
 
 # Glest
 
-**Official Website: https://glest.io**
+**Official Website: https://zeoxd.github.io/glestsite/**
 
 Source code repo: https://github.com/glest/glest.io
 

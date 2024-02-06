@@ -4,9 +4,7 @@
 
 **Official Website: https://zeoxd.github.io/glestsite/**
 
-Source code repo: https://github.com/glest/glest.io
-
-Website repo: https://github.com/glest/glest.github.io
+Source code repo: [https://github.com/glest/glest.io](https://github.com/ZeoxD/glestsite/tree/master?tab=readme-ov-file)
 
 To test any design changes locally, you'll need to install jekyll.
 You'll find the documentation for that on the jekyll website.
